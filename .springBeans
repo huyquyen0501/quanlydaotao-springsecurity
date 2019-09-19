@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.8.201903260659-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/resources/IoC.xml</config>
+		<config>src/main/webapp/WEB-INF/dataconfig.xml</config>
+		<config>src/main/webapp/WEB-INF/securityconfig.xml</config>
+		<config>src/main/webapp/WEB-INF/root.xml</config>
+		<config>src/main/webapp/WEB-INF/mvcconfig.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
